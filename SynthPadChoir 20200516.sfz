@@ -1,0 +1,70 @@
+//+ Name: Synth Pad Choir
+//+ Date: 2020-05-16
+//+ URL: http://freepats.zenvoid.org/Synthesizer/synth-pad.html#Choir
+
+<global>
+ //+ Instrument: Synth Pad Choir
+ ampeg_release=2
+ loop_mode=loop_continuous
+
+<group>
+<region>
+ lokey=33 hikey=38
+ pitch_keycenter=36
+ loop_start=119520 loop_end=299519
+ sample=samples/C2.flac
+<region>
+ lokey=39 hikey=44
+ pitch_keycenter=42
+ loop_start=119520 loop_end=299519
+ sample=samples/F#2.flac
+<region>
+ lokey=45 hikey=50
+ pitch_keycenter=48
+ loop_start=119520 loop_end=299519
+ sample=samples/C3.flac
+<region>
+ lokey=51 hikey=56
+ pitch_keycenter=54
+ loop_start=119520 loop_end=299519
+ sample=samples/F#3.flac
+<region>
+ lokey=57 hikey=62
+ pitch_keycenter=60
+ loop_start=119520 loop_end=299519
+ sample=samples/C4.flac
+<region>
+ lokey=63 hikey=68
+ pitch_keycenter=66
+ loop_start=119520 loop_end=299519
+ sample=samples/F#4.flac
+<region>
+ lokey=69 hikey=74
+ pitch_keycenter=72
+ loop_start=119520 loop_end=299519
+ sample=samples/C5.flac
+<region>
+ lokey=75 hikey=80
+ pitch_keycenter=78
+ loop_start=119520 loop_end=299519
+ sample=samples/F#5.flac
+<region>
+ lokey=81 hikey=86
+ pitch_keycenter=84
+ loop_start=119520 loop_end=299519
+ sample=samples/C6.flac
+<region>
+ lokey=87 hikey=91
+ pitch_keycenter=90
+ loop_start=119520 loop_end=299519
+ sample=samples/F#6.flac
+<region>
+ lokey=92 hikey=97
+ pitch_keycenter=96
+ loop_start=119520 loop_end=299519
+ sample=samples/C7.flac
+<region>
+ lokey=98 hikey=108
+ pitch_keycenter=102
+ loop_start=119520 loop_end=299519
+ sample=samples/F#7.flac
